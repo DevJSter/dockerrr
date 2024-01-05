@@ -1,4 +1,4 @@
-  <h3 align="center">Docker Crash Course</h3>
+<h3 align="center">Docker Crash Course</h3>
 
 <br />
 
